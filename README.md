@@ -15,6 +15,10 @@ Saving my notebook code from Apache PySpark by Example course by Jonathan Fernan
 
 
 # Certificate of completion
-![](14_Certificate/Certificate.PNG)
+<<<<<<< HEAD
+![](14_Certificate/CertificateOfCompletion_Apache_PySpark_by_Example.png)
+=======
+![](./14_Certificate/CertificateOfCompletion_Apache_PySpark_by_Example.PNG)
+>>>>>>> ecc131b2ef57cf17ae601014e98d1d25af1cf914
 
 
